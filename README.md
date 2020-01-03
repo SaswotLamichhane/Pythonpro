@@ -1,2 +1,2 @@
 # Pythonpro
-This is a python pro and will share and learn from GitHUb
+Hey Getting Stuck With Python Read my code and learn with it 
