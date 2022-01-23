@@ -31,7 +31,7 @@ RIGHT = 'right'
 direction = UP
 DIRECTION = [UP,DOWN,LEFT,RIGHT]
 
-HEAD = 0 # syntactic sugar: index of the worm's head
+HEAD = 0
 
 
 
